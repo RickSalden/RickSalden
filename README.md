@@ -1,2 +1,4 @@
-#👋 Hallo, ik ben Rick
-Ik ben een Software Developer student uit Friesland die graag programmeert en nieuwe technologieën leert.
+# 👋 Hallo, ik ben Rick
+Ik ben een enthousiaste programmeur die graag nieuwe dingen leert en werkt aan verschillende softwareprojecten.
+
+🚀 Altijd bezig met ontwikkelen, ontdekken en verbeteren.
